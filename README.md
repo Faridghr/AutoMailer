@@ -10,6 +10,13 @@ Welcome to AutoMailer Application! This app is a powerful, easy-to-use applicati
 - **Error Handling:** The app will alert you if any issues arise, such as missing data or failed email deliveries.
 - **SMTP Integration:** The app integrates with Gmail’s SMTP server for sending emails.
 
+---
+
+![SendEmailTab](png/SendEmailTab.JPG)
+![EmailCredentialsTab](png/EmailCredentialsTab.JPG)
+
+---
+
 ## Step-by-Step Usage Guide
 
 ### 1. Start the Application:
